@@ -24,3 +24,4 @@ const menuBtn = document.querySelector(".menu-icon span");
          }
 
          let navbar = document.querySelector('.navbar');
+         console.log ("shraysi");
